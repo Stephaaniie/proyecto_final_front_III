@@ -1,8 +1,18 @@
-# React + Vite
+# Clinica DH.
+## Proyecto final Front_III.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Para esta evaluación final, pondremos en práctica todos los conocimientos que
+hemos adquirido en este track. Desde la creación y manejo de formularios,
+Hooks (como useState, useContext, useReducer), estilos, props, peticiones
+asincrónicas e integración con API, routing, testing y demás apartados
+fundamentales del ecosistema de React. Para ello, te pediremos que crees una
+aplicación web ligada a la temática de la salud.
 
-Currently, two official plugins are available:
+<p align="center">
+  <a href="https://react.dev/learn" target="blank"><img src="./src/assets/react.svg" width="200" alt="React Logo" /></a>
+</p>
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+
+1. Clonar proyecto
+2. ```yarn install```
+3. Levantar: ```yarn dev```
